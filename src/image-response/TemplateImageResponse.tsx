@@ -81,7 +81,7 @@ export default function TemplateImageResponse({
             justifyContent: 'flex-end',
             flexGrow: 1,
           }}>
-            photos.sambecker.com
+            jeremydaniel.co
           </div>
         </div>}
       <div style={{
